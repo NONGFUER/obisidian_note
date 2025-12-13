@@ -11,44 +11,29 @@
             "id": "a140d4a41fbb9c21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2025-12-05.md",
-                "mode": "source",
-                "source": false
+                "file": "LUNIX进程线程.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2025-12-05"
+              "icon": "excalidraw-icon",
+              "title": "LUNIX进程线程.excalidraw"
             }
           },
           {
             "id": "3670f2b606ae54a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文件IO.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "文件IO.excalidraw"
-            }
-          },
-          {
-            "id": "d22cdffdb38003aa",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-05.md",
+                "file": "栈与队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-05"
+              "title": "栈与队列"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a76d7e146f7b563",
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文件IO.excalidraw.md",
+                "file": "进程2025.12.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "文件IO.excalidraw 的反向链接列表"
+              "title": "进程2025.12.08.excalidraw 的反向链接列表"
             }
           },
           {
@@ -140,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文件IO.excalidraw.md",
+                "file": "车载娱乐系统线程图.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "文件IO.excalidraw 的出链列表"
+              "title": "车载娱乐系统线程图.excalidraw 的出链列表"
             }
           },
           {
@@ -183,23 +169,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文件IO.excalidraw.md",
+                "file": "车载娱乐系统线程图.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文件IO.excalidraw 的大纲"
+              "title": "车载娱乐系统线程图.excalidraw 的大纲"
             }
           },
           {
-            "id": "3ced799a9791243e",
+            "id": "66616ede6ac949f0",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "type": "file-properties",
+              "state": {
+                "file": "进程2025.12.08.excalidraw.md"
+              },
+              "icon": "lucide-info",
+              "title": "进程2025.12.08.excalidraw的笔记属性"
             }
           }
         ],
@@ -219,41 +207,53 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3670f2b606ae54a5",
+  "active": "a140d4a41fbb9c21",
   "lastOpenFiles": [
+    "LUNIX进程线程.excalidraw.md",
+    "学习阶段.canvas",
     "未命名.canvas",
     "2025-12-05.md",
+    "栈与队列.md",
+    "Excalidraw/Drawing 2025-12-12 19.01.57.excalidraw.md",
+    "笔试题目.canvas",
+    "进程与线程遗留问题.md",
+    "Pasted image 20251212163450.png",
+    "Pasted Image 20251212162934_017.png",
     "文件IO.excalidraw.md",
-    "Drawing 2025-12-06 15.15.42.excalidraw.md",
-    "“文件IO”进阶问题.png",
-    "Drawing 2025-12-06 11.54.54.excalidraw.md",
+    "Drawing 2025-12-12 10.16.58.excalidraw.md",
+    "线性表.md",
     "未命名.md",
-    "2025-12-06.md",
-    "车载娱乐系统线程图.excalidraw.md",
-    "Pasted Image 20251206095453_669.png.md",
-    "Drawing 2025-12-06 09.42.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-06 11.46.21.excalidraw.md",
-    "Excalidraw",
-    "2025-12-04.md",
-    "嵌入式学习日志.md",
-    "copilot/copilot-conversations/切换成中文@20251206_112016.md",
-    "copilot/copilot-conversations",
+    "linux系统编程学习指南.md",
+    "Linux多进程多线程课程大纲.md",
+    "Pasted image 20251211202824.png",
+    "Pasted Image 20251211202758_980.png",
+    "笔试题/笔试题目.canvas",
+    "af66a9b3cd32b03c06e0ec0a4f3e3eb5.jpg",
+    "1f28601078f78af8e2332fffc5c05304.jpg",
+    "笔试题",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "Pasted image 20251211145149.png",
+    "2025-12-10.md",
+    "Pasted image 20251210201859.png",
+    "Pasted image 20251210171644.png",
+    "嵌入式学习日志.md",
+    "2025-12-08.md",
+    "Pasted Image 20251209154233_088.png",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-conversations/切换成中文@20251206_112016.md",
+    "车载娱乐系统线程图.excalidraw.md",
+    "Drawing 2025-12-06 15.15.42.excalidraw.md",
+    "Drawing 2025-12-06 11.54.54.excalidraw.md",
+    "2025-12-06.md",
+    "Excalidraw",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]
